@@ -6,7 +6,8 @@ Golang API for Cex.io Bitcoin Commodity Exchange.
 Example
 -------
 
-    package main
+```
+package main
 
 import (
     "fmt"
@@ -43,3 +44,4 @@ func main() {
        }
     */
 }
+```
